@@ -1,8 +1,9 @@
 <div align="center">
   <img src="./banner.svg" width="100%" alt="Darshana Ambekar banner" />
 </div>
-
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=F4A6A0&background=FFF4EC00&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Darshana+%F0%9F%8C%B8;MCA+Student+%E2%80%A2+Learning+DevOps;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+Monitoring" />
+  </div>
 <br>
 
 ---
