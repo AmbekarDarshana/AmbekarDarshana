@@ -1,22 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9DCCB&height=220&section=header&text=Darshana%20Ambekar%20%E2%98%81%EF%B8%8F&fontSize=54&fontColor=2B2326&fontAlignY=38&animation=fadeIn" />
+  <img src="./banner.svg" width="100%" alt="Darshana Ambekar banner" />
 </div>
 
-<p align="center">
-  🌸 ☁️ 💻 ✨ 🌿 ☁️ 🌸
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=E0826F&background=FFF4EC00&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Darshana+%F0%9F%8C%B8;MCA+Student+%E2%80%A2+Learning+DevOps+by+Building;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+Monitoring+%E2%9C%A8" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-F4B9A0?style=for-the-badge&logo=docker&logoColor=2B2326" />
-  <img src="https://img.shields.io/badge/CI%2FCD-D4A853?style=for-the-badge&logo=githubactions&logoColor=2B2326" />
-  <img src="https://img.shields.io/badge/Linux-A8D8C8?style=for-the-badge&logo=linux&logoColor=2B2326" />
-  <img src="https://img.shields.io/badge/Python-CDEBF5?style=for-the-badge&logo=python&logoColor=2B2326" />
-</p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=F4A6A0&background=FFF4EC00&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Darshana+%F0%9F%8C%B8;MCA+Student+%E2%80%A2+Learning+DevOps;Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+Monitoring" />
 <br>
 
 ---
